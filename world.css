@@ -1,1 +1,16 @@
 /* Add your own styles */
+
+* {font-family: 'Trebuchet MS', sans-serif;}
+body {background-color: #aaeeff; margin: 0; padding: 0;}
+header {background-color: #224400; color: white; padding: 0.1%;}
+h1 {text-align: center; font-size: 48px}
+main {text-align: center;}
+
+#controls {margin: 1% 33%;}
+#country {margin: 1% auto; width: 100%;}
+#lookup-country {margin: 1% auto; width: 48%; background-color: #aa3333; color: white;}
+#lookup-cities {margin: 1% auto; width: 48%; background-color: #338833; color: white;}
+
+table {margin: 1% auto; width:70%; border: 1px solid gray; border-collapse: collapse;}
+th, td {padding: 1% 1%; border: 2px solid gray; font-size: 18px;}
+td {text-align: left;}
